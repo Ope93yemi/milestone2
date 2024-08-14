@@ -1,0 +1,455 @@
+
+.header{
+    background-color: #F5F7FA;
+    padding: 0px 80px;
+
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.header nav{
+    padding-left: 30px;
+}
+.navBar{
+    display: flex;
+    margin-right: 80px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.logNav{
+    display: flex;
+    
+}
+.logNav nav{
+    padding-right: 30px;
+    color: #4CAF4F;
+}
+.logNav button{
+    background-color: #4CAF4F;
+    color: white;
+    border-radius: 6px;
+    margin-top: -8px;
+    pad: 10px 20px 10px 20px;
+    border: transparent;
+    height: 40px;
+    width: 90px;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.hero h1{
+    font-size: 50px;
+    line-height: 24px;
+}
+.hero h2{
+    color: #4CAF4F;
+    font-size: 50px;
+    line-height: 24px;
+
+}
+.hero p{
+    line-height: 24px;
+}
+.hero button{
+    margin-top: 20px;
+    background-color: #4CAF4F;
+    color: white;
+    border: transparent;
+    border-radius: 4px;
+    padding: 14px 32px 14px 32px;
+    width: 128px;
+    height: 52px;
+}
+.hero-one{
+    margin-top: 100px;
+}
+.hero-img{
+    margin-top: 50px ;
+}
+.dot{
+    margin-left: 45%;
+    padding-bottom: 5px;
+}
+.tagDi{
+    padding: 0px 80px;
+}
+
+.heroTag h2{
+    text-align: center;
+    color: #4D4D4D;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heroTag p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #717171;
+    ;
+}
+.nextC{
+    text-align: center;
+}
+.iconHero{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.iconHero img{
+    margin-left: 80px;
+}
+.iconHero h3{
+    text-align: center;
+    color: #4D4D4D;
+}
+.iconHero p{
+    text-align: center;
+    color: #717171;
+}
+.rafiki{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.nextC h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: #4D4D4D;
+    line-height: 34px;
+}
+.nextC p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #4D4D4D;
+    line-height: 0px;
+    font-size: 16px;
+}
+.rafikiText{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+}
+.rafikiText h3{
+    font-size: 36px;
+    color: #4D4D4D;
+    line-height: 44px;
+}
+.rafikiText p{
+    font-size: 14px;
+    color: #717171;
+    line-height: 20px;
+
+}
+.rafikiText button{
+    background-color: #4CAF4F;
+    color: white;
+    border-radius: 4px;
+    border: transparent;
+    padding: 14px 32px 14px 32px;
+    margin-top: 5px;
+}
+
+.num{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background-color: #F5F7FA;
+}
+.numText{
+    line-height: 0px;
+}
+.numText h3{
+    font-family: serif;
+    font-size: 36px;
+    font-weight: 600px;
+    color: #4D4D4D;
+}
+.numText h4{
+    font-family: serif;
+    font-size: 36px;
+    font-weight: 600px;
+    color: #4CAF4F;
+}
+.numText p{
+    color: #18191F;
+}
+.three{
+    font-family: serif;
+    font-size: 36px;
+    font-weight: 600px;
+    line-height: 44px;
+    color: #4CAF4F;
+}
+.number{
+    display: flex;
+    justify-content: space-evenly;
+}
+.number img{
+    display: flex;
+    flex-direction: row;
+    margin-top: 35px;
+    margin-left: 110px;
+}
+.number h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 2px;
+}
+.number h6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 5px;
+}
+.numberI{
+    margin-right: 50px;
+}
+.numberII{
+    margin-right: 50px;
+}
+.design{
+    background-color: white;
+    display: flex;
+    padding: 0px 80px;
+    margin-top: 35px;
+}
+.designTxt{
+    margin-left: 50px;
+}
+.designTxt h2{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    color: #4D4D4D;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.designTxt p{
+    color: #717171;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.designTxt button{
+    background-color: #4CAF4F;
+    color: white;
+    border: transparent;
+    width: 151px;
+    height: 52px;
+    padding: 14px 32px 14px 32px;
+    border-radius: 4px;
+}
+.enim{
+    background-color: #F5F7FA;
+    display: flex;
+    padding: 20px 0px 0px 80px;
+    margin-top: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.enim-p{
+    margin-left: 40px;
+
+}
+.enim-p p{
+   color: #717171; 
+   font-size: 16px;
+    font-weight: 500px;
+    line-height: 24px;
+   
+}
+.enim-p h5{
+    color: #4CAF4F;
+    font-size: 20px;
+    font-weight: 600px;
+    line-height: 8px;  
+}
+.enim-p h6{
+    color: #89939E;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 4px;
+}
+.enimCon{
+    display: flex;
+    
+    
+}
+.enimCon img{
+    margin-left: 30px;
+}
+.enim-h{
+    margin-left: 20px;
+}
+.enim-h h4{
+    color: #4CAF4F;
+    margin-top: 10px;
+}
+.enim-h img{
+    padding: 0px 0px 0px 130px;
+}
+
+.caris{
+    padding: 0px 80px;
+    margin-top: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.caris{
+    text-align: center;
+}
+.caris-one h3{
+    color: #4D4D4D;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+
+}
+.caris-one{
+  color: #717171;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.caris-two{
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+.caris-two img{
+    padding-left: 20px;
+}
+.caris-three{
+   display: flex;
+   justify-content: space-between;
+   
+}
+
+.ct-one{
+    background-color: #ebeff3e5;
+    height: 126px;
+    margin-top: -110px;
+    width: 220px;
+    border-radius: 8px;
+    padding: 5px;
+    margin-left: 130px;
+}
+.ct-one p{
+    color: #4CAF4F;
+    font-size: 15px;
+}
+.ct-one img{
+    padding-left: 130px;
+}
+.ct-two{
+    background-color: #ebeff3e5;
+    height: 126px;
+    margin-top: -110px;
+    width: 220px;
+    border-radius: 8px;
+    padding: 5px;
+    margin-right: 170px;
+    position: relative;
+}
+.ct-two p{
+    color: #4CAF4F;
+    font-size: 15px;
+}
+.ct-two img{
+    padding-left: 50px;
+    padding-top: -40px;
+    position: absolute;
+}
+.ct-three{
+    background-color: #ebeff3e5;
+    height: 126px;
+    margin-top: -110px;
+    width: 220px;
+    border-radius: 8px;
+    padding: 5px;
+    margin-right: 30px;
+    position: relative;
+    
+}
+
+.ct-three p{
+    color: #4CAF4F;
+    font-size: 15px;
+}
+.ct-three img{
+    padding-left: 60px;
+    position: absolute;
+}
+.foot{
+    text-align: center;
+    background-color:  #F5F7FA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.foot h2{
+font-size: 64px;
+font-weight: 600px;
+line-height: 76px;
+color: #263238;
+;
+
+}
+.foot button{
+    width: 178px;
+    height: 52px;
+    padding: 14px 32px 14px 32px;
+    border-radius: 4px;
+    background-color: #4CAF4F;
+    color: white;
+    border: transparent;
+}
+
+.footer{
+    margin-top: 50px;
+    padding-bottom: 50px;
+    background-color: black;
+    color: white;
+    border: transparent;
+    display: flex;
+    justify-content: space-between;
+}
+.footer nav{
+    padding-top: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.footer h5{
+    color: #9F9F9F;
+    font-size: 20px;
+}
+.footer-one{
+  margin-top: 45px;
+  margin-left: 40px;
+  padding-top: 20px;
+}
+.footer-one h6{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 10px;
+    color: #9F9F9F;
+    line-height: 24px;
+}
+.footer h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer-two{
+    margin-top: 30px;
+}
+.footer-three{
+    margin-top: 30px;
+}
+.footer-four{
+    margin-top: 30px;
+    margin-right: 100px;
+}
+.footer-four form{
+    background-color: #263238;
+    width: 245px;
+    height: 30px;
+    border-radius: 4px;
+    padding: 10px 20px;
+}
+.footer-four img{
+    padding-right: 90px;
+}
